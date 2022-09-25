@@ -4,6 +4,11 @@
 
 A Website built on **React** for managing tasks.
 
+## Technology Used
+
+- React -> A JavaScript library for building user interfaces.
+- Git -> A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 ## Available Scripts
 
 In the project directory, you can run:
